@@ -1,3 +1,10 @@
 nav a{
   margin-right: 20px;
 }
+
+nav a.active {
+  text-decoration: underline;
+  background: #000;
+  border-radius: 5px;
+  color: wheat;
+}

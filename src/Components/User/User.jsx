@@ -9,6 +9,7 @@ const User = ({user}) => {
     margin: '10px',
     borderRadius: '10px'
   }
+  
   return (
     <div style={userStyle}>
       <h2>{name}</h2>
